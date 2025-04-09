@@ -1,0 +1,43 @@
+# Fichiers générés par Django
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Fichiers générés par l'IDE
+
+.idea/
+.vscode/
+
+# Fichiers de configuration
+
+*.env
+*.sqlite3
+ 
+# Fichiers statiques collectés
+
+/staticfiles/
+
+datas.json
+
+# Fichiers de médias téléchargés
+
+/media/
+
+# Fichiers de logs
+
+*.log
+
+# Fichiers de sauvegarde
+
+*.bak
+*.swp
+*.dat
+*.dir
+*~
+
+# Fichiers de dépendances
+
+venv/
+logs.txt/
